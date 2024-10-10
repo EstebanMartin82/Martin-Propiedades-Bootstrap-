@@ -1,0 +1,147 @@
+/* navbar */
+.bg-lightorange {
+    background-color: rgb(241, 191, 171);
+    height: 100px;
+    font-size: 25px;
+}
+.nav-link {
+    font-size: 20px;
+}
+
+.nav-link:hover {
+    font-size: 24px;
+}
+.logo {
+    color: rgb(241, 241, 149);
+    font-size: 23px;
+}
+
+
+/* index */
+.carousel-index img {
+    max-height: 700px;
+}
+.index-card {
+    width: 200px;
+    height: 300px
+}
+
+.index-box img {
+    width: 90%;
+    max-height: 50%;
+    object-fit: cover;
+}
+.index-button {
+    width: 300px;
+    border: 1px solid green;
+    border-radius: 10px;
+}
+
+/* ventas */
+.ventas-card img{
+    width: 100px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.ventas-card-box img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.ventas-carousel img {
+    width: 540px;
+    max-height: 280px;
+    object-fit: cover;
+}
+.ventas-card-opinion {
+    width: 250px;
+    height: 180px;
+    border: 3px solid grey;
+    border-radius: 20px;
+    background-color: rgb(201, 195, 195);
+}
+.bg-secondary-light {
+    background-color: rgb(214, 210, 210);
+
+}
+
+
+/* contacto */
+.container-contact {
+    background-image: url(/assets/casa3.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.btn-danger {
+    background-color: rgb(235, 116, 116);
+}
+
+.btn-primary {
+    background-color: bisque;
+    color: black;
+    border: none;
+    outline: none;
+}
+.btn-primary:hover {
+    background-color: rgb(235, 166, 82);
+}
+
+/* alquileres */
+.alquiler-carousel img {
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+    opacity: 0.7;
+}
+.carousel-caption h3  {
+    font-size: 40px;
+    color:black
+}
+.carousel-caption p {
+    font-size: 40px;
+    color:black
+}
+
+.alquileres-card {
+    max-width: 100%;
+    height: 300px;
+}
+
+.alquileres-card img {
+    width: 90%;
+    height: 250px;
+    object-fit: cover;
+}
+.alquileres-card img:hover {
+    width: 100%;
+    height: 300px;
+}
+
+.alquiler-logo {
+    font-size: 48px;
+    color: rgb(138, 138, 5);
+}
+.follow {
+    list-style-type: none;
+    font-size: 20px;
+    
+}
+
+
+
+/* footer */
+.fixed-whatsapp {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    cursor: pointer;
+  }
+  .fixed-whatsapp img {
+    width: 50px;
+  }

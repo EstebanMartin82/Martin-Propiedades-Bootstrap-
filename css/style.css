@@ -70,7 +70,7 @@
 
 /* contacto */
 .container-contact {
-    background-image: url(/assets/casa3.webp);
+    background-image: url(../assets/casa3.webp);
     background-size: cover;
     background-position: center;
 }
